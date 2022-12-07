@@ -1,2 +1,2 @@
-Worklist on ReactJs.
+Worklist on React.
 Build version.
